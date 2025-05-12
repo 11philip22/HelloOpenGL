@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glad", "glad\glad.vcxitems"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloTriangle", "HelloTriangle\HelloTriangle.vcxproj", "{29C6F0F1-49AF-4826-8111-C4EA0A2F0D42}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloPiramid", "HelloPiramid\HelloPiramid.vcxproj", "{66E5BD5C-6209-480B-91D1-BAFDCD948D02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +35,14 @@ Global
 		{29C6F0F1-49AF-4826-8111-C4EA0A2F0D42}.Release|x64.Build.0 = Release|x64
 		{29C6F0F1-49AF-4826-8111-C4EA0A2F0D42}.Release|x86.ActiveCfg = Release|Win32
 		{29C6F0F1-49AF-4826-8111-C4EA0A2F0D42}.Release|x86.Build.0 = Release|Win32
+		{66E5BD5C-6209-480B-91D1-BAFDCD948D02}.Debug|x64.ActiveCfg = Debug|x64
+		{66E5BD5C-6209-480B-91D1-BAFDCD948D02}.Debug|x64.Build.0 = Debug|x64
+		{66E5BD5C-6209-480B-91D1-BAFDCD948D02}.Debug|x86.ActiveCfg = Debug|Win32
+		{66E5BD5C-6209-480B-91D1-BAFDCD948D02}.Debug|x86.Build.0 = Debug|Win32
+		{66E5BD5C-6209-480B-91D1-BAFDCD948D02}.Release|x64.ActiveCfg = Release|x64
+		{66E5BD5C-6209-480B-91D1-BAFDCD948D02}.Release|x64.Build.0 = Release|x64
+		{66E5BD5C-6209-480B-91D1-BAFDCD948D02}.Release|x86.ActiveCfg = Release|Win32
+		{66E5BD5C-6209-480B-91D1-BAFDCD948D02}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +54,6 @@ Global
 		glad\glad.vcxitems*{29c6f0f1-49af-4826-8111-c4ea0a2f0d42}*SharedItemsImports = 4
 		glad\glad.vcxitems*{4b6a327b-60c3-43d2-88c4-e3cdcc083ae8}*SharedItemsImports = 4
 		glad\glad.vcxitems*{523d6781-5168-4872-acdd-86ff68e5c891}*SharedItemsImports = 9
+		glad\glad.vcxitems*{66e5bd5c-6209-480b-91d1-bafdcd948d02}*SharedItemsImports = 4
 	EndGlobalSection
 EndGlobal
